@@ -1,0 +1,11 @@
+
+header{
+    background-image: url(./images/banner-2.jpg);
+    background-size: cover;
+   
+    height: 100vh;
+    background-blend-mode:darken;
+
+    
+} 
+
